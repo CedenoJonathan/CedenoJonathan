@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jcedeno4452@utm.edu.ec**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Spring Boot**
 
 
 <div align="left">
